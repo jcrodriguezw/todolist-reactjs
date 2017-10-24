@@ -1,0 +1,65 @@
+.workarea {
+  /* background: red; */
+  padding: 10px;
+
+}
+
+.todoBox {
+  background: orange;
+  width: 80%;
+  margin: 50px auto;
+  padding: 20px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.newtodo {
+  width: 80%;
+  height: 30px;
+  font-size: 20px;
+  padding:5px;
+  padding-left: 15px;
+  border-radius: 10px;
+  background: #F7E985;
+}
+
+.descriptiontodo {
+
+  width: 80%;
+  margin: 5px auto;
+  padding: 5px;
+}
+
+.placetodo {
+  width: 45%;
+  margin-right: 5px;
+  height: 30px;
+  font-size: 20px;
+  padding-left: 15px;
+  border-radius: 10px;
+  background: #F7E985;
+}
+
+.datetodo, .timetodo {
+  width: 23%;
+  height: 30px;
+  font-size: 20px;
+  margin-right: 5px;
+  border-radius: 10px;
+  background: #F7E985;
+}
+
+
+.addtodo {
+  background: #F7E985;
+  margin-top: 10px;
+  width: 15%;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.todolist {
+  /* background: red; */
+  width: 
+}
